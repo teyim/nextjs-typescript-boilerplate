@@ -27,13 +27,8 @@ now, install the projects dependencies via yarn
 
 1.  **Project name**
     Customise the project name by navigating to the **_package.json_** file and changing the **_name_** property.
-    `` {
-    "name": < your project name >,
-    "version": "0.1.0",
-    "private": true
-    }```
 
 ---
 
-Don't forget to give this project a star :star:
-Follow me on [Twitter](https://twitter.com/asofex)
+- Don't forget to give this project a star :star:
+- Follow me on [Twitter](https://twitter.com/asofex)
