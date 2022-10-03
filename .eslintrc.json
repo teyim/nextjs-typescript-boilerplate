@@ -17,9 +17,5 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "rules": {
-    "prettier/prettier": "warn",
-    "no-console": "warn"
-  },
   "plugins": ["@typescript-eslint"]
 }
