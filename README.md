@@ -1,6 +1,6 @@
-# Minimal Nextjs Typescript boilerplate
+#Nextjs Typescript boilerplate
 
-A Minimal Next-Typescript boilerplate to quickly and easily bootstrap your next project. Comes pre-configured with, Tailwindcss, Eslint, Prettier, Lint-staged ,Husky and Commitizen. :rocket:
+A Next-Typescript boilerplate to quickly and easily bootstrap your next project. Comes pre-configured with, Tailwindcss, Eslint, Prettier, Lint-staged ,Husky and Commitizen. :rocket:
 
 ## Features
 
