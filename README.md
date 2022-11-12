@@ -1,4 +1,4 @@
-#Nextjs Typescript boilerplate
+## Nextjs Typescript boilerplate
 
 A Next-Typescript boilerplate to quickly and easily bootstrap your next project. Comes pre-configured with, Tailwindcss, Eslint, Prettier, Lint-staged ,Husky and Commitizen. :rocket:
 
